@@ -119,6 +119,7 @@ namespace MatchInformer.Source
         #endregion
 
         #region Pattern Stuuff
+        //CREDIT goes to some guy on stackoverflow.com  ups..
         public static byte[] HexStringToBytes(string s) {
             const string HEX_CHARS = "0123456789ABCDEF";
 
